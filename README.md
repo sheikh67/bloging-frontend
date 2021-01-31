@@ -1,4 +1,4 @@
-# skanmi-frontend
+# Bloging-frontend
 
 Student Bloging application (ReactJS, NextJS)
 
